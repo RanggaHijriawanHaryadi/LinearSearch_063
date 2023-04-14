@@ -30,3 +30,8 @@ void input()
 
 
 void linearSearch()
+{
+	char ch;
+	int comparisons; // Number of compersisons
+
+	
